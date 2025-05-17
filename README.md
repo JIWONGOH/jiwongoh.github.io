@@ -30,7 +30,7 @@ I have operated the VDI access portal for Samsung, as well as the administrative
 - Citrix ADC : Networking
 - Citrix VDA : VDI
 
-## Projects
+# Projects
 
 ### 2014/04_Recovery from the fire damage at the Samsung SDS Gwacheon Data Center
 [News Link : Samsung samsung gwacheon data center fire (Korean)](https://www.yna.co.kr/view/AKR20140420062851061).
@@ -59,7 +59,7 @@ The Cisco GSS, which was used for traffic distribution, reached end-of-life and 
 
 Build a portal accessible worldwide useing CDN and AWS multi-region deployment. Using AWS Route 53 geoproximity routing.(GSLB)
 
-## Certifications
+# Certifications
 
 #### AWS Certified Developer - Associate (Expiration Date: 2025/07) 
 #### NAVER Cloud Platform Certified Associate
@@ -75,14 +75,14 @@ Build a portal accessible worldwide useing CDN and AWS multi-region deployment. 
 For more details about my certifications, please refer to my LinkedIn profile below.
 [Linkedin Certifications](https://www.linkedin.com/in/jiwon-goh-03955323/details/certifications/)
 
-## Education
+# Education
 
 ### KwangWoon University 
 Bachelor’s degree in Computer Software • 2024 - 2011
 
 Papers : Recommendation of TV Program Based on Personalized Websurfing Information (2010.11) [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01548277)
 
-## ETC
+# ETC
 
 ```mermaid
 sequenceDiagram
