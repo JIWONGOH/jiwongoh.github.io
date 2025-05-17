@@ -79,6 +79,7 @@ For more details about my certifications, please refer to my LinkedIn profile be
 
 ### KwangWoon University 
 Bachelor’s degree in Computer Software • 2024 - 2011
+
 Papers : Recommendation of TV Program Based on Personalized Websurfing Information (2010.11) [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01548277)
 
 ## ETC
