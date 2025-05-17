@@ -61,16 +61,16 @@ Build a portal accessible worldwide useing CDN and AWS multi-region deployment. 
 
 ## Certifications
 
-### AWS Certified Developer - Associate (Expiration Date: 2025/07) 
-### NAVER Cloud Platform Certified Associate
-### Redhat Certified Engineer - Red Hat Enterprise Linux 7
-### Oracle Certified Professional, Oracle Solaris 10 System Administrator
-### Oracle Certified Professional, Oracle Solaris 11 System Administrator
-### Engineer Information Processing (정보처리기사)
-### Engineer Information Communication (정보통신기사)
-### Engineer information security (정보보안기사)
-### AWS Certified Solutions Architect - Associate (Expired)
-### Cisco Certified Network Professional (Expired)
+#### AWS Certified Developer - Associate (Expiration Date: 2025/07) 
+#### NAVER Cloud Platform Certified Associate
+#### Redhat Certified Engineer - Red Hat Enterprise Linux 7
+#### Oracle Certified Professional, Oracle Solaris 10 System Administrator
+#### Oracle Certified Professional, Oracle Solaris 11 System Administrator
+#### Engineer Information Processing (정보처리기사)
+#### Engineer Information Communication (정보통신기사)
+#### Engineer information security (정보보안기사)
+#### AWS Certified Solutions Architect - Associate (Expired)
+#### Cisco Certified Network Professional (Expired)
 
 For more details about my certifications, please refer to my LinkedIn profile below.
 [Linkedin Certifications](https://www.linkedin.com/in/jiwon-goh-03955323/details/certifications/)
