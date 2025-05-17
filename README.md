@@ -1,7 +1,10 @@
 # Welcome to virbr0.net!
 
 Hi! I'm **JIWON GOH**, a network engineer.
+
 I have been working on internet telephone exchange operation / call center operation and consulting / server, network design and operation.
+
+
 
 #### Blog(Korean) - [https://blog.virbr0.net](https://blog.virbr0.net)
 #### LinkedIn - [www.linkedin.com/in/jiwon-goh-03955323](www.linkedin.com/in/jiwon-goh-03955323)
@@ -13,14 +16,16 @@ I have been working on internet telephone exchange operation / call center opera
 
 As a VoIP engineer, I reliably operated a carrier-grade VoIP switching system serving over 600,000 subscribers, along with its associated infrastructure.  
 My responsibilities included establishing operational procedures, improving network architecture, troubleshooting and enabling new services through subscriber switch upgrades.
+At times, I used Python to automate tasks such as provisioning large volumes of user information via API calls using the requests module, or managing servers with SSH access through automation using the paramiko module.
 
 - Cisco Broadworks (formerly BroadSoft) : SIP, OCI-P
 - Oracle Session Border Controller (formerly ACME) : SIP
 - ipageon SSW / GK (formerly Xener) : SIP, H323
 - Solaris / Linux Server : OS, Networking
 - Cisco L2/L3 Switch, GSS, TGW : SIP, H323, Networking, DNS
--  AudioCode TGW : SIP
+- AudioCode TGW : SIP
 - Radware ADC (formerly Alteon) : Networking, Appshape
+- Python : API, automation provisioning, configuration management
 
 ### VDI Portal operation  • 2023/01 ~ 
 
@@ -29,6 +34,7 @@ I have operated the VDI access portal for Samsung, as well as the administrative
 - Windows Server : OS
 - Citrix ADC : Networking
 - Citrix VDA : VDI
+- Powershell : API, automation provisioning
 
 # Projects
 
@@ -58,6 +64,10 @@ The Cisco GSS, which was used for traffic distribution, reached end-of-life and 
 ### 2023/04_Deploy the VDI web portal to support S Company remote work infrastructure
 
 Deploy a portal accessible worldwide useing CDN and AWS multi-region deployment. Using AWS Route 53 geoproximity routing.(GSLB)
+
+### 2024/10_Automated processing and upload of PII data using Powershell
+
+At the request of a client, I developed a PowerShell script that samples data from a SQL Server database table, converts it to Apache Parquet format, and uploads it to Amazon S3.
 
 # Certifications
 
