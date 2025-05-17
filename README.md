@@ -6,8 +6,8 @@ I have been working on internet telephone exchange operation / call center opera
 
 
 
-#### Blog(Korean) - [https://blog.virbr0.net](https://blog.virbr0.net)
-#### LinkedIn - [www.linkedin.com/in/jiwon-goh-03955323](www.linkedin.com/in/jiwon-goh-03955323)
+#### Blog(Korean) - [blog.virbr0.net](https://blog.virbr0.net)
+#### LinkedIn - [www.linkedin.com/in/jiwon-goh-03955323](https://www.linkedin.com/in/jiwon-goh-03955323)
 
 # Experience
 
