@@ -12,7 +12,7 @@ I have been working on internet telephone exchange operation / call center opera
 ### Telephone exchange operation  • 2011/01 ~ 2022/12
 
 As a VoIP engineer, I reliably operated a carrier-grade VoIP switching system serving over 600,000 subscribers, along with its associated infrastructure.  
-My responsibilities included establishing operational procedures, improving network architecture, and enabling new services through subscriber switch upgrades.
+My responsibilities included establishing operational procedures, improving network architecture, troubleshooting and enabling new services through subscriber switch upgrades.
 
 - Cisco Broadworks (formerly BroadSoft) : SIP, OCI-P
 - Oracle Session Border Controller (formerly ACME) : SIP
