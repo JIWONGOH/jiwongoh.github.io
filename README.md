@@ -3,8 +3,8 @@
 Hi! I'm **JIWON GOH**, a network engineer.
 I have been working on internet telephone exchange operation / call center operation and consulting / server, network design and operation.
 
-#### Blog(Korean) - https://blog.virbr0.net
-#### LinkedIn - www.linkedin.com/in/jiwon-goh-03955323
+#### Blog(Korean) - [https://blog.virbr0.net](https://blog.virbr0.net)
+#### LinkedIn - [www.linkedin.com/in/jiwon-goh-03955323](www.linkedin.com/in/jiwon-goh-03955323)
 
 # Experience
 
