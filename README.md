@@ -55,9 +55,9 @@ Migrated the BroadWorks platform from legacy bare-metal servers to a virtualized
 
 The Cisco GSS, which was used for traffic distribution, reached end-of-life and its functionality was successfully migrated to AWS Route 53.
 
-### 2023/04_Build the VDI web portal to support S Company remote work infrastructure
+### 2023/04_Deploy the VDI web portal to support S Company remote work infrastructure
 
-Build a portal accessible worldwide useing CDN and AWS multi-region deployment. Using AWS Route 53 geoproximity routing.(GSLB)
+Deploy a portal accessible worldwide useing CDN and AWS multi-region deployment. Using AWS Route 53 geoproximity routing.(GSLB)
 
 # Certifications
 
