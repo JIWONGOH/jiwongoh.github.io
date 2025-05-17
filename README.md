@@ -39,7 +39,7 @@ I have operated the VDI access portal for Samsung, as well as the administrative
 # Projects
 
 ### 2014/04_Recovery from the fire damage at the Samsung SDS Gwacheon Data Center
-[News Link : Data Center Fire Leads to Outage for Samsung Devices]([https://www.yna.co.kr/view/AKR20140420062851061](https://www.datacenterknowledge.com/outages/data-center-fire-leads-to-outage-for-samsung-devices)
+[News Link : Data Center Fire Leads to Outage for Samsung Devices](https://www.yna.co.kr/view/AKR20140420062851061](https://www.datacenterknowledge.com/outages/data-center-fire-leads-to-outage-for-samsung-devices)
 
 Due to the fire, all equipment was damaged, and operations were shifted to the **cold site for disaster recovery**.  
 The recovery process involved server provisioning, operating system installation, application deployment, and database restoration.
