@@ -48,7 +48,7 @@ The recovery process involved server provisioning, operating system installation
 
 I managed the SIP call server and the session border controller (SBC), and was involved in network architecture design.
 
-### 2021/02_Implemented international call identification in caller ID for calls from overseas
+### 2021/02_Implementing international call indicators for VoIP calls originating from foreign IPs to mitigate vishing attacks
 [Related government press releases(Korean)](https://www.msit.go.kr/bbs/view.do?sCode=user&mId=113&mPid=112&pageIndex=1&bbsSeqNo=94&nttSeqNo=3179884&searchOpt=ALL&searchTxt=%EB%B3%B4%EC%9D%B4%EC%8A%A4)
 
 By utilizing Radware's ADC AppShape functionality for SIP and Oracle SBC's HMR (Header Manipulation Rule) feature, we were able to **real-time** insert an international call indicator into the caller ID for calls originating from overseas IPs to domestic destinations.
